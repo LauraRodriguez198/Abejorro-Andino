@@ -22,7 +22,6 @@
 - [Calibración en campo](#-calibración-en-campo)
 - [Costos](#-costos)
 - [Equipo](#-equipo)
-- [Presentación (PITCH)](#-presentación-pitch)
 
 ## 🌼 ¿Qué es esto?
 
@@ -93,11 +92,6 @@ Dividido entre los 5 integrantes: ≈ $335.600 COP c/u.
 | Juan Soler | Electrónica | Integración del sistema y experiencia de usuario |
 | Santiago Roa | Mecánica | Estructura, cuerpo y mecanismo de vibración |
 | Andrés Sánchez | Mecánica | Materiales, impresión 3D y ensamble |
-
-## 🎤 Presentación (PITCH)
-
-La presentación completa, con la estructura socializada en clase, está disponible aquí:
-**[Ver el PITCH →](https://claude.ai/artifact/AmDZasfmefJbPmwrj7UasP)**
 
 ---
 
