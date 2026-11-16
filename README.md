@@ -80,11 +80,9 @@ El firmware tiene un modo de diagnóstico por el monitor serial (115200 baudios)
 
 | Concepto | Valor |
 | --- | --- |
-| Fabricación mecánica del cuerpo (modelado, impresión 3D, ensamble y planos) | $1.400.000 COP |
-| Materiales de electrónica y fabricación (compra directa) | ≈ $278.000 COP |
-| **Total** | **≈ $1.678.000 COP** |
+| Costo total del prototipo | ≈ $1.678.000 COP |
 
-Dividido entre los 5 integrantes: ≈ $335.600 COP c/u. El diseño electrónico, el firmware y la PCB los hizo el equipo.
+Dividido entre los 5 integrantes: ≈ $335.600 COP c/u.
 
 ## 👥 Equipo
 
